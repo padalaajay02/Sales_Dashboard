@@ -1,2 +1,18 @@
-# Sales_Dashboard
-Built a dynamic sales dashboard to monitor key business metrics such as revenue, profit, and top products. Enabled data-driven decision-making using interactive visualizations.
+# 📊 Sales Performance Dashboard (Streamlit + Plotly)
+
+## 🚀 Overview
+Interactive sales dashboard using Python, Plotly, and Streamlit.
+
+## 🎯 Features
+- Sales Trends
+- Region Analysis
+- Category Distribution
+- Top Products
+- Customer Segments
+
+## ▶️ Run
+pip install -r requirements.txt
+streamlit run app.py
+
+## 👨‍💻 Author
+Your Name
